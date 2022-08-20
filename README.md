@@ -28,3 +28,5 @@ Using this for XOR encryption - https://github.com/sathoro/php-xor-cipher - (inc
 Using this for cloud save encryption - https://github.com/defuse/php-encryption - (incl/lib/defuse-crypto.phar)
 
 Most of the stuff in generateHash.php has been figured out by pavlukivan and Italian APK Downloader, so credits to them
+
+Here's the link to the wiki (for those who use the mobile app) [Click here](https://github.com/0mgRod/0mgRod-GDPS-V2.0/wiki)
