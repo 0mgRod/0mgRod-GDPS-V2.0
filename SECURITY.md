@@ -6,8 +6,10 @@
 | ------- | ------------------ |
 | V1      | :x:                |
 | V2      | :x:                |
-| V3      | :white_check_mark: |
+| V3      | :x:                |
 | V4      | :white_check_mark: |
+| V5      | :white_check_mark: |
+| V6      | :x:                |
 
 ## Reporting a Vulnerability
 
