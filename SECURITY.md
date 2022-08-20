@@ -1,6 +1,6 @@
 # Security Policy
 
-## Supported Versions
+## Updated security (policy)
 
 | Version | Supported          |
 | ------- | ------------------ |
@@ -9,7 +9,8 @@
 | V3      | :x:                |
 | V4      | :white_check_mark: |
 | V5      | :white_check_mark: |
-| V6      | :x:                |
+| V6      | :white_check_mark: |
+| V7      | :x:                |
 
 ## Reporting a Vulnerability
 
