@@ -29,4 +29,6 @@ Using this for cloud save encryption - https://github.com/defuse/php-encryption 
 
 Most of the stuff in generateHash.php has been figured out by pavlukivan and Italian APK Downloader, so credits to them
 
+### Wiki (for mobile app)
+
 Here's the link to the wiki (for those who use the mobile app) [Click here](https://github.com/0mgRod/0mgRod-GDPS-V2.0/wiki)
