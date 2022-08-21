@@ -16,6 +16,8 @@
 | V10     | :x:                |
 | V11     | :x:                |
 | V12     | :white_check_mark: |
+| V13     | :white_check_mark: |
+| V14     | :white_check_mark: |
 
 ## Reporting a Vulnerability
 
